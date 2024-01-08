@@ -14,6 +14,9 @@ pacotes <- c(
   "jsonlite",
   "rvest",
   "DataExplorer",
-  "skimr"
+  "skimr",
+  "GGally",
+  "googlesheets4",
+  "sjPlot"
 )
 
